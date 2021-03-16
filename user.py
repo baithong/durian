@@ -1,1 +1,2 @@
 print('ขนม')
+print('ball')
